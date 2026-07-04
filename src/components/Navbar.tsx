@@ -21,7 +21,7 @@ const Navbar = () => (
     {/* pilule gauche : logo + marque */}
     <Link to="/" className="flex items-center gap-2 bg-neutral-900/90 backdrop-blur rounded-full pl-4 pr-6 py-3">
       <Logo />
-      <span className="text-white text-sm font-normal tracking-tight">securify</span>
+      <span className="text-white text-sm font-normal tracking-tight">Benjamin Morel</span>
     </Link>
 
     {/* pilule centrale : liens (cachée sur mobile) */}
